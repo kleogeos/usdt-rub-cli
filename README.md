@@ -1,5 +1,6 @@
 # usdt-rub-cli
 
+![Test CLI](https://github.com/kleogeos/usdt-rub-cli/actions/workflows/test.yml/badge.svg)
 Estimate how many rubles you actually get for USDT via P2P, an exchanger, or your own spread — before you pick a method. No dependencies, no sign-up, just Python 3.
 
 ```bash
