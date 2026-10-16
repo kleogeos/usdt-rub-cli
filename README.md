@@ -44,7 +44,7 @@ Check whether a USDT payment landed yet: [crypto-pay-cli](https://github.com/kle
 
 Need the paperwork for crypto invoicing in Russian — invoice template, self-employment/115-FZ checklist, payment tracking? [RU Crypto Freelancer Kit (7 USDT)](https://kleogeos.github.io/freelancer-tools/ru-kit.html)
 
-Free and will stay free. If it saved you time: [tip with crypto](https://kleogeos.github.io/freelancer-tools/donate.html).
+Free and will stay free. If it saved you time: [tip with crypto or Telegram Stars](https://kleogeos.github.io/freelancer-tools/donate.html).
 
 ## License
 
