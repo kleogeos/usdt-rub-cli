@@ -42,7 +42,7 @@ Prefer a browser form? Use the free web version: [USDT→RUB calculator](https:/
 
 Check whether a USDT payment landed yet: [crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli)
 
-Need the paperwork for crypto invoicing in Russian — invoice template, self-employment/115-FZ checklist, payment tracking? [RU Crypto Freelancer Kit (7 USDT)](https://kleogeos.github.io/freelancer-tools/ru-kit.html)
+Need the paperwork for crypto invoicing in Russian — invoice template, self-employment/115-FZ checklist, payment tracking? [RU Crypto Freelancer Kit (7 USDT)](https://kleogeos.github.io/freelancer-tools/ru-kit.html?src=cli-usdtrub)
 
 Free and will stay free. If it saved you time: [tip with crypto or Telegram Stars](https://kleogeos.github.io/freelancer-tools/donate.html).
 
