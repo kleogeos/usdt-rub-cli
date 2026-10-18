@@ -40,6 +40,8 @@ Same math as the [web calculator](https://kleogeos.github.io/freelancer-tools/us
 
 Prefer a browser form? Use the free web version: [USDT→RUB calculator](https://kleogeos.github.io/freelancer-tools/usdt-v-rubli-kalkulyator.html) · [live network fee comparison](https://kleogeos.github.io/freelancer-tools/crypto-fee-comparison.html)
 
+[usdt-rub-js](https://github.com/kleogeos/usdt-rub-js) — same math, `npx` instead of `pip`, no install.
+
 Check whether a USDT payment landed yet: [crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli)
 
 Need the paperwork for crypto invoicing in Russian — invoice template, self-employment/115-FZ checklist, payment tracking? [RU Crypto Freelancer Kit (7 USDT)](https://kleogeos.github.io/freelancer-tools/ru-kit.html?src=cli-usdtrub)
